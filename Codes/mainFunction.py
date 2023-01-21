@@ -1,8 +1,8 @@
 from scheduler import Scheduler
-from geneticscheduler import GeneticScheduler
+from geneticAlgo import GeneticScheduler
 from heuristics import Heuristics
 from drawer import Drawer
-from customparser import parse
+from Parser import parse
 
 import copy
 import os
